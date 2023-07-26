@@ -57,7 +57,7 @@ span{
     align-items: center;
     height: 100vh;
     width: 100%;
-    background: linear-gradient(45deg,#d2001a,#4c6e07,#f48e21,#000302);
+    background: linear-gradient(100deg,#000000,#4c6e07,#f48e21,#000302);
     background-size: 300% 300%;
     animation: color 12s ease-in-out infinite;
 }
